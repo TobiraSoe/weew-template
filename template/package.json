@@ -1,8 +1,8 @@
 {
-  "name": "playing-via-vue-temps",
+  "name": "{{ name }}",
   "version": "1.0.0",
-  "description": "A Vue.js project",
-  "author": "Tobira <tobirawork@gmail.com>",
+  "description": "{{ description }}",
+  "author": "{{ author }}",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
